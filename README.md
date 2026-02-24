@@ -12,9 +12,7 @@ Inverted Pendulum Movie
 
 # HTML test
 
-<!-- 
-<video src="https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.mp4">test</video>
--->
+<video src="https://lect.mydns.jp/ee/movie.mp4">test</video>
 
 
 

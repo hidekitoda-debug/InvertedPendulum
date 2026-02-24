@@ -4,6 +4,7 @@ Inverted Pendulum Movie:
 
 ![demo](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)_
 
+<!--
 ![demo](https://lect.mydns.jp/ee/movie.mp4)_
 
 [![altテキスト](URL)](https://lect.mydns.jp/ee/movie.mp4)
@@ -16,6 +17,7 @@ Inverted Pendulum Movie:
 <video controls src="https://lect.mydns.jp/ee/movie.mp4">test</video>
 </div>
 
+-->
 
 
 - Source code (now constructed)

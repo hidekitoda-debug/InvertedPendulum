@@ -1,4 +1,4 @@
-Inverted Pendulum Movie
+Inverted Pendulum Movie:
 
 [Gif movie link](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)
 
@@ -12,7 +12,9 @@ Inverted Pendulum Movie
 
 # HTML test
 
-<video src="https://lect.mydns.jp/ee/movie.mp4">test</video>
+<div>
+<video controls src="https://lect.mydns.jp/ee/movie.mp4">test</video>
+</div>
 
 
 

@@ -6,7 +6,9 @@ Inverted Pendulum Movie
 
 ![demo](https://lect.mydns.jp/ee/movie.mp4)_
 
-[![altテキスト](サムネイル画像のURL)](https://lect.mydns.jp/ee/movie.mp4)
+[![altテキスト](URL)](https://lect.mydns.jp/ee/movie.mp4)
+
+[![alt設定](http://img.youtube.com/vi/{video-id}/0.jpg)](https://www.youtube.com/watch?v={video-id})
 
 
 - Source code (now constructed)

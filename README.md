@@ -12,6 +12,8 @@ Inverted Pendulum Movie
 
 # HTML test
 
+<video src="https://lect.mydns.jp/ee/movie.mp4"　controls></video>
+
 
 - Source code (now constructed)
 

@@ -1,10 +1,14 @@
 Inverted Pendulum Movie:
 
-[Gif movie link](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)
+![demo](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.webp)
 
-![demo](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)_
+[WebP movie link](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.webp)
 
 <!--
+旧GIF版（差し替え前の表示）を戻すときは、上の ![](...) のURLを movie.gif に変えるだけ。
+[Gif movie link](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)
+![demo](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)
+
 ![demo](https://lect.mydns.jp/ee/movie.mp4)_
 
 [![altテキスト](URL)](https://lect.mydns.jp/ee/movie.mp4)
@@ -21,4 +25,3 @@ Inverted Pendulum Movie:
 
 
 - Source code (now constructed)
-

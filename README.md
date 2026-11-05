@@ -22,11 +22,11 @@ This paper presents a novel approach to inverted pendulum control and unstable e
 
 **Keywords:** inverted pendulum, unstable equilibrium angle estimator, integral only controller, anti-friction, non predictable disturbances
 
-## Figure 1
+## Figure 6
 
-![Fig. 1. Basic concept of the proposed controller.](fig1.png)
+![Fig. 6. Example of pendulum and cart position transition during base shaking by hand and L-shaped wrench attachment.](fig6.png)
 
-*Fig. 1. Basic concept of the proposed controller.*
+*Fig. 6. Example of pendulum and cart position transition during base shaking by hand (area A) L-shaped wrench attachment (areas B–D) in the same movie. (a) UEA estimated by listing 2. (b) The pendulum (blue) and cart (red) position transition.*
 Reproduced unmodified from the published paper: H. Toda, M. Sekimoto, J. Ohyama, and H. Kawamoto, "Pendulum Model-Less Inversion," *Journal of Robotics and Mechatronics*, Vol. 38, No. 1, pp. 350–363, 2026. Licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
 
 ## Movie files
@@ -41,9 +41,13 @@ Reproduced unmodified from the published paper: H. Toda, M. Sekimoto, J. Ohyama,
 
 - Source code in this repository: Apache-2.0 (see `LICENSE`)
 - The paper: CC BY-ND 4.0
-- `fig1.png` is a reproduction of Fig. 1 of the paper (CC BY-ND 4.0, unmodified) and is **not** covered by Apache-2.0
+- `fig6.png` is a reproduction of Fig. 6 of the paper (CC BY-ND 4.0, unmodified) and is **not** covered by Apache-2.0
 
 <!--
 旧GIF版を表示に戻すときは、上の ![](...) のURLを movie.gif に変えるだけ。
 ![demo](https://github.com/hidekitoda-debug/InvertedPendulum/blob/main/movie.gif)
+
+図1（ブロック図）に戻すときは、Figure 6 セクションをこれと入れ替える（fig1.png はリポジトリに残してある）。
+## Figure 1
+![Fig. 1. Basic concept of the proposed controller.](fig1.png)
 -->

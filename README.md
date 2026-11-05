@@ -22,6 +22,13 @@ This paper presents a novel approach to inverted pendulum control and unstable e
 
 **Keywords:** inverted pendulum, unstable equilibrium angle estimator, integral only controller, anti-friction, non predictable disturbances
 
+## Figure 1
+
+![Fig. 1. Basic concept of the proposed controller.](fig1.png)
+
+*Fig. 1. Basic concept of the proposed controller.*
+Reproduced unmodified from the published paper: H. Toda, M. Sekimoto, J. Ohyama, and H. Kawamoto, "Pendulum Model-Less Inversion," *Journal of Robotics and Mechatronics*, Vol. 38, No. 1, pp. 350–363, 2026. Licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
+
 ## Movie files
 
 | file | format | size | note |
@@ -34,6 +41,7 @@ This paper presents a novel approach to inverted pendulum control and unstable e
 
 - Source code in this repository: Apache-2.0 (see `LICENSE`)
 - The paper: CC BY-ND 4.0
+- `fig1.png` is a reproduction of Fig. 1 of the paper (CC BY-ND 4.0, unmodified) and is **not** covered by Apache-2.0
 
 <!--
 旧GIF版を表示に戻すときは、上の ![](...) のURLを movie.gif に変えるだけ。

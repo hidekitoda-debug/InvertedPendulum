@@ -5,6 +5,8 @@
 この動画は、下記論文の成果として撮影した実機実験のデモ映像です（167秒・ノーカット）。
 This is the demonstration movie of the hardware experiment reported in the paper below (167 s, uncut).
 
+🎬 **[Full movie with sound（プレイヤーページ）](https://lect.mydns.jp/ee/movie.html)** ／ [MP4 direct (18.8 MB)](https://lect.mydns.jp/ee/movie.mp4)
+
 ## Paper
 
 **Pendulum Model-Less Inversion**
@@ -35,7 +37,7 @@ Reproduced unmodified from the published paper: H. Toda, M. Sekimoto, J. Ohyama,
 |---|---|---|---|
 | `movie.webp` | animated WebP, 480×270, 10 fps | 7.1 MB | shown above (lightweight) |
 | `movie.gif` | GIF, 480×270, 10 fps | 47.8 MB | previous version, kept as fallback |
-| `movie.mp4` | MP4 (H.264 + AAC), 1280×720, 60 fps | 18.8 MB | original movie |
+| `movie.mp4` | MP4 (H.264 + AAC), 1280×720, 60 fps | 18.8 MB | original movie, [player page](https://lect.mydns.jp/ee/movie.html) |
 
 ## License
 

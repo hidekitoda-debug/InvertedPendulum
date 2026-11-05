@@ -34,8 +34,6 @@ Reproduced unmodified from the published paper: H. Toda, M. Sekimoto, J. Ohyama,
 
 | file | format | size | note |
 |---|---|---|---|
-| `movie.webp` | animated WebP, 480×270, 10 fps | 7.1 MB | shown above (lightweight) |
-| `movie.gif` | GIF, 480×270, 10 fps | 47.8 MB | previous version, kept as fallback |
 | [`movie.mp4`](https://github.com/hidekitoda-debug/InvertedPendulum/raw/main/movie.mp4) | MP4 (H.264 + AAC), 1280×720, 60 fps | 18.8 MB | original movie（クリックでダウンロード） |
 
 ## License
